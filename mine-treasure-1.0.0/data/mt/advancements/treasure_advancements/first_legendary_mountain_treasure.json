@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:deepslate_emerald_ore"
+    },
+    "title": "OMG, WE FOUND THE MINING MOLE!",
+    "description": "Find your first Legendary Mountain Treasure!",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_epic_mountain_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/mountain_treasure/mountain_legendary_treasure"
+      }
+	}
+  }
+}

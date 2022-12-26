@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:enchanted_book"
+    },
+    "title": "Epic Finds!",
+    "description": "Find 10 Epic Treasure!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mt:treasure_advancements/first_epic_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "mt.epic_count": {
+                "min": 10
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

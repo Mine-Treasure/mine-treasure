@@ -1,0 +1,1665 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+			  ]
+			},
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+			  ]
+			},
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+			  ]
+			},
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+			  ]
+			},
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+			  ]
+			},
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+			  ]
+			},
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Basalt Deltas Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hit there is a 15% chance to grant \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"the wearer Resistance II for 2 seconds\",\"color\":\"gray\",\"italic\":false}'],color:2826786},RepairCost:99999,Unbreakable:1b,armor:basalt_deltas_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 3,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:blast_protection": {
+                  "min": 10,
+                  "max": 10
+                }
+              }
+            }
+		  ]
+		}
+      ]
+    }
+  ]
+}

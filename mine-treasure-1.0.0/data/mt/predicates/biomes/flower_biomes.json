@@ -1,0 +1,25 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "minecraft:meadow"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "minecraft:flower_forest"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "minecraft:sunflower_plains"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_axe"
+    },
+    "title": "Blow Me Away",
+    "description": "Find the Barbaric Axe",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_legendary_dark_forest_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:golden_axe"
+            ],
+            "nbt": "{weapon:barbaric_axe}"
+          }
+        ]
+      }
+    }
+  }
+}

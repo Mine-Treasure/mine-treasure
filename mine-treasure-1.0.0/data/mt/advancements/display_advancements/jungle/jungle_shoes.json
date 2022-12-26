@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:leather_boots"
+    },
+    "title": "Speedy Goriales",
+    "description": "Obtain the Jungle Shoes",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mt:treasure_advancements/first_legendary_jungle_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:leather_boots"
+            ],
+            "nbt": "{armor:jungle_shoes}"
+          }
+        ]
+      }
+    }
+  }
+}

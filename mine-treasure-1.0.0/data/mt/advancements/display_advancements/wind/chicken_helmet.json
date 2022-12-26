@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:egg"
+    },
+    "title": "Bawk Bawk",
+    "description": "Find a Chicken Helmet",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_epic_wind_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:player_head"
+            ],
+            "nbt": "{armor:chic}"
+          }
+        ]
+      }
+    }
+  }
+}

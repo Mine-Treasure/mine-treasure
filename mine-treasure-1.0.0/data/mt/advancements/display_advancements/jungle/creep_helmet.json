@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:creeper_head"
+    },
+    "title": "Imposter Sus?",
+    "description": "Find a Creeper Helmet",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_rare_jungle_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:creeper_head"
+            ],
+            "nbt": "{armor:creep}"
+          }
+        ]
+      }
+    }
+  }
+}

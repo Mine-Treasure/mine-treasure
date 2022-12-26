@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:nether_star"
+    },
+    "title": "YOU HAVE SACRIFIED YOUR SOUL!",
+    "description": "Find your first Legendary Soul Valley Treasure!",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_epic_soulvalley_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/soul_valley_treasure/soulvalley_legendary_treasure"
+      }
+	}
+  }
+}

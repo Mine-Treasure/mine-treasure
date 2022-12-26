@@ -1,0 +1,1 @@
+effect give @s[tag=mountain_leggings,scores={mt.tick=1}] minecraft:resistance 2 0 trueeffect give @s[tag=mountain_leggings,scores={mt.tick=1}] minecraft:fire_resistance 2 0 true

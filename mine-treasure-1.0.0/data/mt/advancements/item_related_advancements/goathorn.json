@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "nbt": "{instrument:\"minecraft:yearn_goat_horn\",weapon:mountainhorn}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mt:special_items/horns/horn_of_the_mountain"
+  }
+}

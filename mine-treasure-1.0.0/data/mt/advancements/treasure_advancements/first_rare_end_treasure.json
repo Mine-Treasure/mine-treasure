@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "title": "Ready For Take-Off?",
+    "description": "Find your first Rare End Treasure!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_common_end_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/end_treasure/end_rare_treasure"
+      }
+	}
+  }
+}

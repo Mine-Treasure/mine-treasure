@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:dragon_head"
+    },
+    "title": "Dragon's Bellowing Chorus",
+    "description": "Find your first Epic End Treasure!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_rare_end_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/end_treasure/end_epic_treasure"
+      }
+	}
+  }
+}

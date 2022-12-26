@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:white_candle"
+    },
+    "title": "Fully Restored Soul",
+    "description": "Consume a Pure Soul Potion",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_legendary_soulvalley_treasure",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{food:psoul}"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:flowering_azalea_leaves"
+    },
+    "title": "Acquired Green Hands",
+    "description": "Find your first Legendary Lush Caves Treasure!",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_epic_lush_caves_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/lush_caves_treasure/lushcave_legendary_treasure"
+      }
+	}
+  }
+}

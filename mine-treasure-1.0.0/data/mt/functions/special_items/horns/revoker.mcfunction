@@ -1,0 +1,13 @@
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/overworldtp
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/pillager_outpost_horn
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/ruined_portal
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/portal_room_horn
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/village_house_horn
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/slow_falling_cow
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/health_boost_cow
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/levitation_cow
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/horse_call
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/saturation_cow
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/lucky_cow
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/pegasus
+advancement revoke @s[scores={mt.htimer=1}] only mt:horns/dirty

@@ -1,0 +1,2089 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 10,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 10,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 10,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 10,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 10,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 10,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:fire_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:respiration": {
+                  "min": 0,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": 0.05,
+                  "operation": "multiply_base",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 9.5,
+                  "operation": "addition",
+                  "slot": "chest"
+                }
+              ]
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Wind Chestplate\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When worn weapons with the knockback \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enchantment increases damage of that\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"weapon by 8% per knockback level.\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Caps at 80%.\",\"color\":\"gray\",\"italic\":false}'],color:16115415},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:wind_chestplate,mt:armor}"
+            }
+		  ]
+		}
+	  ]
+	}
+  ]
+}

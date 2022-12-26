@@ -1,0 +1,11 @@
+scoreboard players set @s treasure_obtain 0
+scoreboard players set @s mt.first_strike_timer 5
+scoreboard players set @s mt.trident 0
+scoreboard players set @s mt.hold_trident 0
+scoreboard players set @s rare_treasure 0
+scoreboard players set @s epic_treasure 0
+scoreboard players set @s legendary_treasure 0
+scoreboard players set @s mt.common_count 0
+scoreboard players set @s mt.rare_count 0
+scoreboard players set @s mt.epic_count 0
+scoreboard players set @s mt.legendary_count 0

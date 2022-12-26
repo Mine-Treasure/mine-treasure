@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:spider_eye"
+    },
+    "title": "Pharaoh's Blessing",
+    "description": "Heal by killing something while wearing the Desert Chestplate",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mt:treasure_advancements/first_legendary_desert_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "chest": {
+              "nbt": "{armor:desert_chestplate}"
+            }
+          }
+        }
+      }
+    }
+  }
+}

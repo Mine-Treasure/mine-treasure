@@ -1,0 +1,55 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+      "biome": "minecraft:sparse_jungle"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "minecraft:jungle"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+      "biome": "minecraft:bamboo_jungle"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:tropical_jungle"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:amethyst_canyon"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:amethyst_rainforest"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:jungle_mountains"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:rocky_jungle"
+        }
+      }
+    ]
+  }
+]

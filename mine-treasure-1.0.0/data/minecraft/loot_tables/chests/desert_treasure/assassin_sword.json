@@ -1,0 +1,1905 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -2.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -0.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -2.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 9 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 9 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 9 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -0.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 9 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -2.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 10 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 10 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 10 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -0.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 10 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -2.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 11,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 12 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 11,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 12 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 11,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 12 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -0.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 11,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 12 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -2.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 12,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 13 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 12,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 13 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 12,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 13 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -0.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 12,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 13 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -2.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 13,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 14 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 13,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 14 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -1.10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 13,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 14 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Assassin\\'s Blade\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Early strikes deal 75% more damage\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"for 5 seconds. Cooldown of 25 seconds.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,Unbreakable:1b,weapon:assablade,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -0.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 13,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:looting": {
+                  "min": 1,
+                  "max": 5
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 14 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.10 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

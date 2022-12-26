@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "nbt": "{instrument:\"minecraft:call_goat_horn\",weapon:pillageroutpost}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mt:special_items/horns/pillager_outpost_horn"
+  }
+}

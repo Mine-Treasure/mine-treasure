@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_block"
+    },
+    "title": "So Rich, Yet so Broke",
+    "description": "Find 4000 Common Treasure!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mt:treasure_advancements/1000_common_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "mt.common_count": {
+                "min": 4000
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

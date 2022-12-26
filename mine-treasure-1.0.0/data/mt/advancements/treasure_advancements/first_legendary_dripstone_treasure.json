@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:leather_helmet"
+    },
+    "title": "WATCH YOUR HEAD!",
+    "description": "Find your first Legendary Dripstone Treasure!",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_epic_dripstone_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/dripstone_treasure/dripstone_legendary_treasure"
+      }
+	}
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:firework_star"
+    },
+    "title": "Prepare... For Utter Domination",
+    "description": "Obtain a Desolation Rocket",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mt:treasure_advancements/first_legendary_badlands_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:firework_rocket"
+            ],
+            "nbt": "{weapon:deso}"
+          }
+        ]
+      }
+    }
+  }
+}

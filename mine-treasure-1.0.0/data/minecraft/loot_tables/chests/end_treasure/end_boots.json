@@ -1,0 +1,2162 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 5,
+                  "max": 7
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+			  ]
+			},
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+			  ]
+			},
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"End Boots\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When a thrown Ender Pearl lands\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"enemies in a 4x4 area takes \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"6 hearts of magic damage. While\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"slowing the enemies as well. \",\"color\":\"gray\",\"italic\":false}'],color:10639316},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:end_boots,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "feet"
+                },
+                {
+                  "attribute": "minecraft:generic.knockback_resistance",
+                  "name": "minecraft:generic.knockback_resistance",
+                  "amount": 0.05,
+                  "operation": "addition",
+                  "slot": "feet"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 10
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:frost_walker": {
+                  "min": 0,
+                  "max": 2                },
+                "minecraft:feather_falling": {
+                  "min": 1,
+                  "max": 5
+                }
+              }
+            }
+		  ]
+		}
+      ]
+    }
+  ]
+}

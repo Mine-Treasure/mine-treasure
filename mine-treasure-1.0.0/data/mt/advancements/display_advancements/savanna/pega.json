@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:globe_banner_pattern"
+    },
+    "title": "The Ultimate Horse",
+    "description": "Call upon a godly horse",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_legendary_savanna_treasure",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "nbt": "{instrument:\"minecraft:call_goat_horn\",weapon:pega}"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:pillager_spawn_egg"
+    },
+    "title": "Out To Get You",
+    "description": "Spawn a Pillager Outpost",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_epic_dark_forest_treasure",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "nbt": "{instrument:\"minecraft:call_goat_horn\",weapon:pillageroutpost}"
+        }
+      }
+    }
+  }
+}

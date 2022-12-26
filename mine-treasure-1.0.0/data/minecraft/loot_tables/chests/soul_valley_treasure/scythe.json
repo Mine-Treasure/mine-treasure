@@ -1,0 +1,1872 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+		{
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 2.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 7 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 2.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 2.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 2.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 10 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 2.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 7 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 21.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 10 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3.25,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 6.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 7.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.25 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3.25,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 7 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.25 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3.25,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.25 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3.25,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.25 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3.25,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 10 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.25 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 6.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 7.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.5 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 7 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.5 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.5 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 10 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.5 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 10 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3.5 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 7 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 8.5 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_hoe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Scythe of Souls\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Has a 12.5% chance to regain 4 health\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"upon hitting an enemy.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:soul_scythe,mt:weapon,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 4
+                },
+                "minecraft:looting": {
+                  "min": 10,
+                  "max": 10
+                }
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 10 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 3 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

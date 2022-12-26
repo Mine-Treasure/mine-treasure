@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:chiseled_polished_blackstone"
+    },
+    "title": "Forging In Black And Stone",
+    "description": "Find your first Epic Basalt Deltas Treasure!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_rare_basalt_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/basalt_treasure/basaltdeltas_epic_treasure"
+      }
+	}
+  }
+}

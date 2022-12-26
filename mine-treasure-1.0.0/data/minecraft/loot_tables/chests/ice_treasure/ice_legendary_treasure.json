@@ -1,0 +1,209 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 6,
+        "max": 8
+      },
+      "bonus_rolls": {
+        "min": 1,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bow",
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:power": {
+                  "min": 6,
+                  "max": 9
+                },
+                "minecraft:infinity": {
+                  "min": 0,
+                  "max": 1
+                },
+                "minecraft:punch": {
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Unbreakable:1}"
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Stray Bow\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Arrows apply Slowness II.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:9999,weapon:stray,mt:weapon}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.3
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:totem_of_undying",
+          "functions": [
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": {
+                    "min": 1,
+                    "max": 1
+                  },
+                  "operation": "addition",
+                  "slot": [
+                    "offhand"
+                  ]
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": {
+                    "min": 1,
+                    "max": 1
+                  },
+                  "operation": "addition",
+                  "slot": [
+                    "offhand"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "name": "minecraft:chests/ice_treasure/ice_boots",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.6
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "name": "minecraft:chests/ice_treasure/ice_sword",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.4
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:blue_ice",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 40,
+                "max": 60
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_blue_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_contents",
+              "type": "minecraft:shulker_box",
+              "entries": [
+                {
+                  "type": "minecraft:loot_table",
+                  "name": "minecraft:chests/ice_treasure/ice_epic_treasure"
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.5
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:enchanted_golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              },
+              "add": false
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              },
+              "add": false
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Arrow of Frostbite\",\"color\":\"#3C6199\",\"italic\":false}'},HideFlags:127,weapon:frost,CustomPotionEffects:[{Id:7b,Amplifier:1b,Duration:20,ShowParticles:0b},{Id:15b,Amplifier:1b,Duration:100,ShowParticles:0b},{Id:20b,Amplifier:1b,Duration:100,ShowParticles:0b}],CustomPotionColor:3231405}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

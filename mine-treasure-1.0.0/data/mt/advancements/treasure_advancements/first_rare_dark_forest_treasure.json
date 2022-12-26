@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:dark_oak_log"
+    },
+    "title": "Anti-Village Or Pro-Village?",
+    "description": "Find your first Rare Dark Forest Treasure!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_common_dark_forest_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/dark_forest_treasure/darkforest_rare_treasure"
+      }
+	}
+  }
+}

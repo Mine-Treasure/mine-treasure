@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:used_totem",
+      "conditions": {
+        "item": {
+          "nbt": "{weapon:totemassa}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mt:special_items/weapons/totem_of_assa"
+  }
+}

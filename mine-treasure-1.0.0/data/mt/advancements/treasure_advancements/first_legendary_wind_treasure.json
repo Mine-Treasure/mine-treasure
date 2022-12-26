@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:birch_chest_boat"
+    },
+    "title": "WEEEEEEEEEEEE!",
+    "description": "Find your first Legendary Wind Treasure!",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_epic_wind_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/wind_treasure/wind_legendary_treasure"
+      }
+	}
+  }
+}

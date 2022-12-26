@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:shot_crossbow",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "head": {
+              "nbt": "{armor:badlands_helmet}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mt:special_items/weapons/set_badlands_helmet"
+  }
+}

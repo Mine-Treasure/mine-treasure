@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:dispenser"
+    },
+    "title": "Arrow Supply",
+    "description": "Open an Arrow Dispenser from a Rare Jungle Chest",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_rare_jungle_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/jungle_treasure/arrows"
+      }
+	}
+  }
+}

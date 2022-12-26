@@ -1,0 +1,15 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "location": {
+      "dimension": "minecraft:the_nether"
+    },
+    "equipment": {
+      "chest": {
+        "nbt": "{armor:nether_chestplate}"
+      }
+    }
+  }
+}

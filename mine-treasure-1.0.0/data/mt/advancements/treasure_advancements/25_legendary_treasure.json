@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:command_block"
+    },
+    "title": "WHERE IS MY PERFECT ITEM!?",
+    "description": "Find 25 Legendary Treasure!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mt:treasure_advancements/10_legendary_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "mt.legendary_count": {
+                "min": 25
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

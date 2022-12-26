@@ -1,0 +1,1 @@
+advancement revoke @s only mt:item_related_advancements/barbaric_axe_dmgdealt

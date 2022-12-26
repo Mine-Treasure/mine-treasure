@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:dark_oak_sapling"
+    },
+    "title": "Pillaging The Loot",
+    "description": "Find your first Epic Dark Forest Treasure!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_rare_dark_forest_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/dark_forest_treasure/darkforest_epic_treasure"
+      }
+	}
+  }
+}

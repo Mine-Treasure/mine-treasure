@@ -1,0 +1,828 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Mushroom Shield\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Gains Regeneration II for 5 \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"seconds while blocking damage. \",\"color\":\"gray\",\"italic\":false}']},HideFlags:127,RepairCost:9999,Unbreakable:1b,weapon:mushroomshield,mt:weapon,BlockEntityTag:{Base:3,Patterns:[{Color:0,Pattern:\"cr\"},{Color:14,Pattern:\"hh\"},{Color:3,Pattern:\"cbo\"},{Color:3,Pattern:\"ts\"},{Color:8,Pattern:\"bs\"},{Color:12,Pattern:\"bts\"}]}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": " "
+                },
+                {
+                  "text": "When in Main Hand / Off Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "+1 Armor",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "+1 Armor Toughness",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "-10% Speed",
+                  "color": "red",
+                  "italic": false
+                },
+                {
+                  "text": "Unbreakable",
+                  "color": "blue",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.1,
+                  "operation": "multiply_total",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.1,
+                  "operation": "multiply_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Mushroom Shield\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Gains Regeneration II for 5 \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"seconds while blocking damage. \",\"color\":\"gray\",\"italic\":false}']},HideFlags:127,RepairCost:9999,Unbreakable:1b,weapon:mushroomshield,mt:weapon,BlockEntityTag:{Base:3,Patterns:[{Color:0,Pattern:\"cr\"},{Color:14,Pattern:\"hh\"},{Color:3,Pattern:\"cbo\"},{Color:3,Pattern:\"ts\"},{Color:8,Pattern:\"bs\"},{Color:12,Pattern:\"bts\"}]}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": " "
+                },
+                {
+                  "text": "When in Main Hand / Off Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "+1.5 Armor",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "+1.5 Armor Toughness",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "-7.5% Speed",
+                  "color": "red",
+                  "italic": false
+                },
+                {
+                  "text": "Unbreakable",
+                  "color": "blue",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.075,
+                  "operation": "multiply_total",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1.5,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1.5,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.075,
+                  "operation": "multiply_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Mushroom Shield\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Gains Regeneration II for 5 \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"seconds while blocking damage. \",\"color\":\"gray\",\"italic\":false}']},HideFlags:127,RepairCost:9999,Unbreakable:1b,weapon:mushroomshield,mt:weapon,BlockEntityTag:{Base:3,Patterns:[{Color:0,Pattern:\"cr\"},{Color:14,Pattern:\"hh\"},{Color:3,Pattern:\"cbo\"},{Color:3,Pattern:\"ts\"},{Color:8,Pattern:\"bs\"},{Color:12,Pattern:\"bts\"}]}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": " "
+                },
+                {
+                  "text": "When in Main Hand / Off Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "+2 Armor",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "+2 Armor Toughness",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "-5% Speed",
+                  "color": "red",
+                  "italic": false
+                },
+                {
+                  "text": "Unbreakable",
+                  "color": "blue",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.05,
+                  "operation": "multiply_total",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.05,
+                  "operation": "multiply_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Mushroom Shield\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Gains Regeneration II for 5 \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"seconds while blocking damage. \",\"color\":\"gray\",\"italic\":false}']},HideFlags:127,RepairCost:9999,Unbreakable:1b,weapon:mushroomshield,mt:weapon,BlockEntityTag:{Base:3,Patterns:[{Color:0,Pattern:\"cr\"},{Color:14,Pattern:\"hh\"},{Color:3,Pattern:\"cbo\"},{Color:3,Pattern:\"ts\"},{Color:8,Pattern:\"bs\"},{Color:12,Pattern:\"bts\"}]}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": " "
+                },
+                {
+                  "text": "When in Main Hand / Off Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "+1 Armor",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "+1.5 Armor Toughness",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "-7.5% Speed",
+                  "color": "red",
+                  "italic": false
+                },
+                {
+                  "text": "Unbreakable",
+                  "color": "blue",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.075,
+                  "operation": "multiply_total",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1.5,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.075,
+                  "operation": "multiply_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Mushroom Shield\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Gains Regeneration II for 5 \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"seconds while blocking damage. \",\"color\":\"gray\",\"italic\":false}']},HideFlags:127,RepairCost:9999,Unbreakable:1b,weapon:mushroomshield,mt:weapon,BlockEntityTag:{Base:3,Patterns:[{Color:0,Pattern:\"cr\"},{Color:14,Pattern:\"hh\"},{Color:3,Pattern:\"cbo\"},{Color:3,Pattern:\"ts\"},{Color:8,Pattern:\"bs\"},{Color:12,Pattern:\"bts\"}]}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": " "
+                },
+                {
+                  "text": "When in Main Hand / Off Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "+1 Armor",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "+2 Armor Toughness",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "-5% Speed",
+                  "color": "red",
+                  "italic": false
+                },
+                {
+                  "text": "Unbreakable",
+                  "color": "blue",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.05,
+                  "operation": "multiply_total",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.05,
+                  "operation": "multiply_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Mushroom Shield\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Gains Regeneration II for 5 \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"seconds while blocking damage. \",\"color\":\"gray\",\"italic\":false}']},HideFlags:127,RepairCost:9999,Unbreakable:1b,weapon:mushroomshield,mt:weapon,BlockEntityTag:{Base:3,Patterns:[{Color:0,Pattern:\"cr\"},{Color:14,Pattern:\"hh\"},{Color:3,Pattern:\"cbo\"},{Color:3,Pattern:\"ts\"},{Color:8,Pattern:\"bs\"},{Color:12,Pattern:\"bts\"}]}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": " "
+                },
+                {
+                  "text": "When in Main Hand / Off Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "+1.5 Armor",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "+1 Armor Toughness",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "-7.5% Speed",
+                  "color": "red",
+                  "italic": false
+                },
+                {
+                  "text": "Unbreakable",
+                  "color": "blue",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.075,
+                  "operation": "multiply_total",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1.5,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.075,
+                  "operation": "multiply_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1.5,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Mushroom Shield\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Gains Regeneration II for 5 \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"seconds while blocking damage. \",\"color\":\"gray\",\"italic\":false}']},HideFlags:127,RepairCost:9999,Unbreakable:1b,weapon:mushroomshield,mt:weapon,BlockEntityTag:{Base:3,Patterns:[{Color:0,Pattern:\"cr\"},{Color:14,Pattern:\"hh\"},{Color:3,Pattern:\"cbo\"},{Color:3,Pattern:\"ts\"},{Color:8,Pattern:\"bs\"},{Color:12,Pattern:\"bts\"}]}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": " "
+                },
+                {
+                  "text": "When in Main Hand / Off Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "+2 Armor",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "+1 Armor Toughness",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "-5% Speed",
+                  "color": "red",
+                  "italic": false
+                },
+                {
+                  "text": "Unbreakable",
+                  "color": "blue",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.05,
+                  "operation": "multiply_total",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.05,
+                  "operation": "multiply_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Mushroom Shield\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Gains Regeneration II for 5 \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"seconds while blocking damage. \",\"color\":\"gray\",\"italic\":false}']},HideFlags:127,RepairCost:9999,Unbreakable:1b,weapon:mushroomshield,mt:weapon,BlockEntityTag:{Base:3,Patterns:[{Color:0,Pattern:\"cr\"},{Color:14,Pattern:\"hh\"},{Color:3,Pattern:\"cbo\"},{Color:3,Pattern:\"ts\"},{Color:8,Pattern:\"bs\"},{Color:12,Pattern:\"bts\"}]}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": " "
+                },
+                {
+                  "text": "When in Main Hand / Off Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "+1 Armor",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "+1 Armor Toughness",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "-7.5% Speed",
+                  "color": "red",
+                  "italic": false
+                },
+                {
+                  "text": "Unbreakable",
+                  "color": "blue",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.075,
+                  "operation": "multiply_total",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.075,
+                  "operation": "multiply_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Mushroom Shield\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\"\"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Gains Regeneration II for 5 \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"seconds while blocking damage. \",\"color\":\"gray\",\"italic\":false}']},HideFlags:127,RepairCost:9999,Unbreakable:1b,weapon:mushroomshield,mt:weapon,BlockEntityTag:{Base:3,Patterns:[{Color:0,Pattern:\"cr\"},{Color:14,Pattern:\"hh\"},{Color:3,Pattern:\"cbo\"},{Color:3,Pattern:\"ts\"},{Color:8,Pattern:\"bs\"},{Color:12,Pattern:\"bts\"}]}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": " "
+                },
+                {
+                  "text": "When in Main Hand / Off Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "+1 Armor",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "+1 Armor Toughness",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "text": "-5% Speed",
+                  "color": "red",
+                  "italic": false
+                },
+                {
+                  "text": "Unbreakable",
+                  "color": "blue",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.05,
+                  "operation": "multiply_total",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "offhand"
+                },
+                {
+                  "attribute": "minecraft:generic.movement_speed",
+                  "name": "minecraft:generic.movement_speed",
+                  "amount": -0.05,
+                  "operation": "multiply_total",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 1,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+		  ]
+		}
+	  ]
+	}
+  ]
+}

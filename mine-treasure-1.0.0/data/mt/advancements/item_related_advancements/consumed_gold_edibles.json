@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "head": {
+                  "nbt": "{armor:savanna_helmet}"
+                }
+              }
+            }
+          }
+        ],
+        "item": {
+          "tag": "mt:gold_edibles"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mt:special_items/food_functions/gold_edibles"
+  }
+}

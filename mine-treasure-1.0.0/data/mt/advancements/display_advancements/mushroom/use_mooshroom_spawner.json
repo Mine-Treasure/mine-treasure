@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:spawner"
+    },
+    "title": "Saved The Meat Industry",
+    "description": "Use a Mooshroom Spawn Egg On a Spawner",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mt:display_advancements/mushroom/use_mooshroom",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:mooshroom_spawn_egg"
+          ]
+        },
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:spawner"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

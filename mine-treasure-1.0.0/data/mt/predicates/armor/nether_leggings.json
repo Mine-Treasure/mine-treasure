@@ -1,0 +1,26 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type_specific": {
+      "type": "player",
+      "looking_at": {
+        "type": "#mt:targets",
+        "distance": {
+          "absolute": {
+            "min": 0,
+            "max": 5
+          }
+        },
+        "effects": {
+          "minecraft:resistance": {}
+        }
+      }
+    },
+    "equipment": {
+      "legs": {
+        "nbt": "{armor:nether_leggings}"
+      }
+    }
+  }
+}

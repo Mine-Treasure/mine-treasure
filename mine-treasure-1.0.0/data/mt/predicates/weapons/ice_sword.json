@@ -1,0 +1,18 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "nbt": "{weapon:ice_sword}"
+      },
+      "feet": {
+        "enchantments": [
+          {
+            "enchantment": "minecraft:frost_walker"
+          }
+        ]
+      }
+    }
+  }
+}

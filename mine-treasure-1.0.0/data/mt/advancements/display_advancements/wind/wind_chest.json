@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:white_dye"
+    },
+    "title": "Knock Knock, It's Flying Time",
+    "description": "Obtain The Wind Chestplate",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mt:treasure_advancements/first_legendary_wind_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:leather_chestplate"
+            ],
+            "nbt": "{armor:wind_chestplate}"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "function": "minecraft:set_count",
+    "count": -1,
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "nbt": "{instrument:\"minecraft:call_goat_horn\"}"
+        }
+      }
+    ]
+  }
+]

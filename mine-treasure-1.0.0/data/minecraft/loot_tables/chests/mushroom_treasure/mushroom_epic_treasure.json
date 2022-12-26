@@ -1,0 +1,244 @@
+{
+  "pools": [
+    {
+      "rolls": 8,
+      "bonus_rolls": {
+        "min": 1,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mooshroom_spawn_egg",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone_block",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:fermented_spider_eye",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 6,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{instrument:\"minecraft:call_goat_horn\",weapon:sfall_cow}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Slow Falling Cow Horn",
+                  "color": "light_purple",
+                  "italic": "false"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "Calls the Slow Falling cow",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "which one can milk with bowls ",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "for stew of Slow Falling.",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crimson_fungus",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:suspicious_stew",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_stew_effect",
+              "effects": [
+                {
+                  "type": "minecraft:strength",
+                  "duration": {
+                    "min": 300,
+                    "max": 600
+                  }
+                }
+              ]
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Strength Stew",
+                  "color": "aqua",
+                  "italic": "false"
+                }
+              ]
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{instrument:\"minecraft:call_goat_horn\",weapon:levi_cow}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Levitation Cow Horn",
+                  "color": "light_purple",
+                  "italic": "false"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "Calls the Levitation cow",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "which one can milk with bowls ",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "for stew of Levitation.",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{instrument:\"minecraft:call_goat_horn\",weapon:health_cow}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Health Boost Cow Horn",
+                  "color": "light_purple",
+                  "italic": "false"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "Calls the Health Boost cow",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "which one can milk with bowls ",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "for stew of Health Boost.",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+		}
+	  ]
+    }
+  ]
+}

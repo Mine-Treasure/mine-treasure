@@ -1,0 +1,1941 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 11,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 12 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 13,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 14 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 15,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 16 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.75,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 17,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 18 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.75 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 11 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.9 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 11,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 12 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.9 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 13,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 14 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.9 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 15,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 16 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.9 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 17,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 18 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.9 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 1.05,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 11 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.05 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 1.05,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 11,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 12 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.05 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 1.05,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 13,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 14 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.05 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 1.05,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 15,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 16 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.05 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 1.05,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 17,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 18 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.05 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 1.2,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 10,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 11 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.2 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 1.2,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 11,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 12 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.2 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 1.2,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 13,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 14 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.2 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 1.2,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 15,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 16 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.2 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 1.2,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 17,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 18 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 1.2 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 11,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 12 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.9 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 13,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 14 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.9 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 15,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 16 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.9 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barbaric Axe\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When hitting an enemy there is a\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"25% chance to create an explosion\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"dealing AoE damage.\",\"color\":\"gray\",\"italic\":false}']},RepairCost:99999,Unbreakable:1b,weapon:barbaric_axe,mt:weapon,mt:weapon}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:bane_of_arthropods": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:smite": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:knockback": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": -4,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "minecraft:generic.attack_speed",
+                  "amount": 0.9,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "minecraft:generic.attack_damage",
+                  "amount": 17,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:2}"
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "When in Main Hand:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " 18 Attack Damage",
+                  "color": "dark_green",
+                  "italic": false
+                },
+                {
+                  "text": " 0.9 Attack Speed",
+                  "color": "dark_green",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

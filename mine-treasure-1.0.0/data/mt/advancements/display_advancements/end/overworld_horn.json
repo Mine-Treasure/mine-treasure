@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:grass_block"
+    },
+    "title": "Snapped Back to Reality",
+    "description": "Travel with an Overworld Horn",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_common_end_treasure",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "nbt": "{instrument:\"minecraft:call_goat_horn\",weapon:tp}"
+        }
+      }
+    }
+  }
+}

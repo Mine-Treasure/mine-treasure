@@ -1,0 +1,230 @@
+{
+  "pools": [
+    {
+      "rolls": 8,
+      "bonus_rolls": {
+        "min": 1,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:glowstone",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blaze_rod",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:redstone_block",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gunpowder",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Ultra Splash Slowness\",\"color\":\"light_purple\",\"italic\":false}'},CustomPotionEffects:[{Id:2b,Amplifier:3b,Duration:4000,ShowParticles:1b},{Id:4b,Amplifier:1b,Duration:4000,ShowParticles:1b},{Id:18b,Amplifier:0b,Duration:4000,ShowParticles:1b}],CustomPotionColor:4146759}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nether_wart",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Ultra Instant Heal\",\"color\":\"light_purple\",\"italic\":false}'},CustomPotionEffects:[{Id:6b,Amplifier:2b,Duration:10,ShowParticles:1b},{Id:10b,Amplifier:1b,Duration:400,ShowParticles:1b},{Id:22b,Amplifier:1b,Duration:400,ShowParticles:1b}],CustomPotionColor:16712451}"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{item:uheal}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Ultra Splash Damage\",\"color\":\"light_purple\",\"italic\":false}'},CustomPotionEffects:[{Id:7b,Amplifier:3b,Duration:10,ShowParticles:0b}],CustomPotionColor:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Ultra Splash Poison\",\"color\":\"light_purple\",\"italic\":false}'},CustomPotionEffects:[{Id:7b,Amplifier:0b,Duration:10},{Id:17b,Amplifier:3b,Duration:600,ShowParticles:1b},{Id:19b,Amplifier:2b,Duration:600,ShowParticles:1b}],CustomPotionColor:1944876}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Ultra Fire Resistance\",\"color\":\"light_purple\",\"italic\":false}'},CustomPotionEffects:[{Id:11b,Amplifier:0b,Duration:6000,ShowParticles:1b},{Id:12b,Amplifier:3b,Duration:24000,ShowParticles:1b},{Id:22b,Amplifier:1b,Duration:6000,ShowParticles:1b}],CustomPotionColor:16228620}"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{item:ufres}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Ultra Water Breathing\",\"color\":\"light_purple\",\"italic\":false}'},CustomPotionEffects:[{Id:29b,Amplifier:1b,Duration:6000,ShowParticles:1b},{Id:30b,Amplifier:1b,Duration:6000,ShowParticles:1b}],CustomPotionColor:1034743}"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{item:uwbg}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Ultra Swiftness\",\"color\":\"light_purple\",\"italic\":false}'},CustomPotionEffects:[{Id:1b,Amplifier:3b,Duration:4000,ShowParticles:1b},{Id:3b,Amplifier:1b,Duration:4000,ShowParticles:1b}],CustomPotionColor:1034743}"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{item:uswift}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cauldron",
+          "weight": 3,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Ultra Splash Weakness\",\"color\":\"light_purple\",\"italic\":false}'},CustomPotionEffects:[{Id:4b,Amplifier:1b,Duration:4000,ShowParticles:1b},{Id:18b,Amplifier:1b,Duration:4000,ShowParticles:1b},{Id:27b,Amplifier:9b,Duration:4000,ShowParticles:1b}],CustomPotionColor:4541757}"
+            }
+          ]
+        }
+	  ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:fall_from_height",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "feet": {
+              "nbt": "{weapon:point}"
+            }
+          }
+        },
+        "distance": {
+          "absolute": {
+            "min": 29.51
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mt:special_items/weapons/pointed_boots/pointed_boots3"
+  }
+}

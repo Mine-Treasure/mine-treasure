@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:flint_and_steel"
+          ],
+          "nbt": "{weapon:soul_steel}"
+        },
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:sculk",
+              "minecraft:sculk_catalyst",
+              "minecraft:sculk_sensor",
+              "minecraft:sculk_shrieker",
+              "minecraft:sculk_vein"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mt:special_items/weapons/soul_steel_ray"
+  }
+}

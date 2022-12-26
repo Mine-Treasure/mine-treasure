@@ -1,0 +1,2007 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"8 hearts a flower veil surrounds the player \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Granting immunity to every negative effect.\",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		},
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Flower Helmet\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"When the wearer falls below 8 hearts \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a flower veil appears granting \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"immunity to every negative effect. \",\"color\":\"gray\",\"italic\":false}'],color:7206705},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:flower_helmet,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "head"
+                },
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "head"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 2,
+                  "max": 6
+                },
+                "minecraft:projectile_protection": {
+                  "min": 2,
+                  "max": 8
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 3
+                },
+                "minecraft:respiration": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:aqua_affinity": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+		  ]
+		}
+	  ]
+	}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "nbt": "{instrument:\"minecraft:call_goat_horn\",weapon:ruined}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mt:special_items/horns/ruined_portal"
+  }
+}

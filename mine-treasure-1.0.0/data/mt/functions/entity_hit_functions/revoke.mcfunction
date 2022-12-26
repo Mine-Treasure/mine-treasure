@@ -1,0 +1,2 @@
+advancement revoke @s[advancements={mt:entity_hit_system/entity_hit_player=true}] only mt:entity_hit_system/entity_hit_player
+advancement revoke @s[advancements={mt:entity_hit_system/player_hit_entity=true}] only mt:entity_hit_system/player_hit_entity

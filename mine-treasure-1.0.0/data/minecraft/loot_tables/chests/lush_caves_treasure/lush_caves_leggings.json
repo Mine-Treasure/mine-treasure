@@ -1,0 +1,2202 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 5.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 2.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 6.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 7.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 3.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Cave Pants\",\"color\":\"gold\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"Ability:\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Upon hitting the user enemies have \",\"color\":\"gray\",\"italic\":false}','{\"text\":\"a 10% chance of being struck by\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"strong thorns dealing a massive\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"12 damage in a 10 blocks radius.\",\"color\":\"gray\",\"italic\":false}'],color:5566548},HideFlags:64,RepairCost:99999,Unbreakable:1b,armor:lush_cave_leggings,mt:armor}"
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:projectile_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:blast_protection": {
+                  "min": 1,
+                  "max": 5
+                },
+                "minecraft:thorns": {
+                  "min": 4,
+                  "max": 10
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.armor_toughness",
+                  "name": "minecraft:generic.armor_toughness",
+                  "amount": 4.5,
+                  "operation": "addition",
+                  "slot": "legs"
+                },
+                {
+                  "attribute": "minecraft:generic.armor",
+                  "name": "minecraft:generic.armor",
+                  "amount": 8,
+                  "operation": "addition",
+                  "slot": "legs"
+                }
+              ]
+            }
+		  ]
+        }
+	  ]
+	}
+  ]
+}

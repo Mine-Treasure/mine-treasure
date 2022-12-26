@@ -1,0 +1,2 @@
+attribute @s[predicate=mt:weapons/ice_sword] generic.attack_damage modifier add 1534-5678-9101-1123-1234 icedmg 0.3 multiply
+attribute @s[predicate=!mt:weapons/ice_sword] generic.attack_damage modifier remove 1534-5678-9101-1123-1234

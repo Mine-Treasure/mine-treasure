@@ -1,0 +1,1 @@
+execute as @s[type=ender_pearl,tag=!epball] at @s run function mt:special_items/armor/end_boots/found_ball

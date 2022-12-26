@@ -1,0 +1,1 @@
+execute as @e[tag=!mt.entityidset] run function mt:entity_hit_functions/assign_id

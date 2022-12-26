@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "feet": {
+              "nbt": "{armor:basalt_deltas_boots}"
+            }
+          }
+        },
+        "damage": {
+          "type": {
+            "is_explosion": false,
+            "is_magic": false,
+            "is_lightning": false,
+            "bypasses_invulnerability": false,
+            "bypasses_magic": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mt:special_items/armor/basalt_deltas_boots"
+  }
+}

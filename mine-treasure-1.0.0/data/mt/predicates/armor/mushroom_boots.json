@@ -1,0 +1,23 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "location": {
+        "dimension": "minecraft:overworld"
+      },
+      "equipment": {
+        "feet": {
+          "nbt": "{armor:mushroom_boots}"
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:time_check",
+    "value": {
+      "min": 13250,
+      "max": 22500
+    }
+  }
+]

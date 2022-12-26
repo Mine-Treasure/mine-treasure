@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_mushroom"
+    },
+    "title": "Solved World Hunger",
+    "description": "Spawn a Mooshroom Cow",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mt:treasure_advancements/first_rare_mushroom_treasure",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:mooshroom_spawn_egg"
+          ]
+        }
+      }
+    }
+  }
+}

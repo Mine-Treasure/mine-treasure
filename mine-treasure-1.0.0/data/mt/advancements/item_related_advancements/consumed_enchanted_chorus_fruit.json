@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{food:enchanted_chorus_fruit}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mt:special_items/food_functions/chorus_fruit"
+  }
+}

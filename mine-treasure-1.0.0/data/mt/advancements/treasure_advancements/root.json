@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:barrel"
+    },
+    "title": "Mine Treasure",
+    "description": "Ready your pickaxe!",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
+

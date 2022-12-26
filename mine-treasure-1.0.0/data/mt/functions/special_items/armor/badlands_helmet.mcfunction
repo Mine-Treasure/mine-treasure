@@ -1,0 +1,1 @@
+tag @s[predicate=!mt:armor/badlands_helmet] remove badlands_helmet

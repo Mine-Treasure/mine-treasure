@@ -1,0 +1,249 @@
+{
+  "pools": [
+    {
+      "rolls": 10,
+      "bonus_rolls": {
+        "min": 1,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:splash_potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Ultimate\",\"color\":\"gold\",\"bold\":false,\"italic\":false},{\"text\":\" Splash\",\"color\":\"gold\",\"bold\":false,\"italic\":false}]'},CustomPotionEffects:[{Id:2b,Amplifier:4b,Duration:2400},{Id:4b,Amplifier:4b,Duration:2400},{Id:7b,Amplifier:4b,Duration:10},{Id:9b,Amplifier:4b,Duration:120},{Id:15b,Amplifier:4b,Duration:40},{Id:17b,Amplifier:255b,Duration:2400},{Id:18b,Amplifier:2b,Duration:2400},{Id:19b,Amplifier:4b,Duration:2400},{Id:20b,Amplifier:4b,Duration:2400},{Id:25b,Amplifier:30b,Duration:40,ShowParticles:1b},{Id:27b,Amplifier:9b,Duration:160,ShowParticles:1b}],CustomPotionColor:0}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.75
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:ender_chest",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "name": "minecraft:chests/swamp_treasure/swamp_chestplate",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.5
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:turtle_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:glistering_melon_slice",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:golden_carrot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:bone_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:mangrove_log",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 18,
+                "max": 36
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:skeleton_skull",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:phantom_membrane",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:enchanted_golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:green_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_contents",
+              "type": "minecraft:shulker_box",
+              "entries": [
+                {
+                  "type": "minecraft:loot_table",
+                  "name": "minecraft:chests/swamp_treasure/swamp_epic_treasure"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:brewing_stand",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Old Brewing Stand\",\"color\":\"gold\",\"italic\":false}'},BlockEntityTag:{Items:[{Slot:0b,id:\"minecraft:lingering_potion\",Count:1b,tag:{CustomPotionEffects:[{Id:7b,Amplifier:2b,Duration:21,ShowParticles:0b}],CustomPotionColor:0}},{Slot:1b,id:\"minecraft:lingering_potion\",Count:1b,tag:{CustomPotionEffects:[{Id:18b,Amplifier:1b,Duration:1200,ShowParticles:0b}],CustomPotionColor:3357007}},{Slot:2b,id:\"minecraft:lingering_potion\",Count:1b,tag:{CustomPotionEffects:[{Id:2b,Amplifier:4b,Duration:180,ShowParticles:0b}],CustomPotionColor:2169958}}],BrewTime:40,Fuel:64b,block:old}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Ultimate\",\"color\":\"gold\",\"bold\":false,\"italic\":false},{\"text\":\" Potion\",\"color\":\"gold\",\"bold\":false,\"italic\":false}]'},CustomPotionEffects:[{Id:1b,Amplifier:2b,Duration:2400,ShowParticles:1b},{Id:3b,Amplifier:2b,Duration:2400,ShowParticles:1b},{Id:5b,Amplifier:2b,Duration:2400,ShowParticles:1b},{Id:6b,Amplifier:2b,Duration:2400,ShowParticles:1b},{Id:10b,Amplifier:2b,Duration:2400,ShowParticles:1b},{Id:11b,Amplifier:1b,Duration:2400,ShowParticles:1b},{Id:12b,Amplifier:1b,Duration:2400},{Id:13b,Amplifier:1b,Duration:2400,ShowParticles:1b},{Id:22b,Amplifier:3b,Duration:2400,ShowParticles:1b},{Id:23b,Amplifier:1b,Duration:2400,ShowParticles:1b},{Id:26b,Amplifier:9b,Duration:2400,ShowParticles:1b}],CustomPotionColor:16119285}"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{item:upotion}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.75
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

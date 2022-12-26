@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_ingot"
+    },
+    "title": "Common Occurrence",
+    "description": "Find 25 Common Treasure!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mt:treasure_advancements/10_common_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "mt.common_count": {
+                "min": 25
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

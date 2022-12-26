@@ -1,0 +1,194 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 10.0,
+        "max": 12.0
+      },
+      "bonus_rolls": {
+        "min": 1,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Potion of The Lush Caves\",\"color\":\"gold\",\"italic\":false}'},CustomPotionEffects:[{Id:6b,Amplifier:1b,Duration:1},{Id:10b,Amplifier:3b,Duration:400,ShowParticles:1b},{Id:11b,Amplifier:1b,Duration:400,ShowParticles:1b},{Id:22b,Amplifier:1b,Duration:400,ShowParticles:1b},{Id:24b,Amplifier:1b,Duration:400,ShowParticles:1b}],CustomPotionColor:1572662}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lime_shulker_box",
+          "weight": 2,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_contents",
+              "type": "minecraft:shulker_box",
+              "entries": [
+                {
+                  "type": "minecraft:loot_table",
+                  "name": "minecraft:chests/lush_caves_treasure/lushcave_epic_treasure"
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.5
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "name": "minecraft:chests/lush_caves_treasure/lush_caves_leggings",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.4
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:limit_count",
+              "limit": {
+                "min": 6,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:honey_bottle",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 2
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Juicy Experience Drink\",\"color\":\"gold\",\"italic\":false}'},food:xphoney,Enchantments:[{}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:limit_count",
+              "limit": {
+                "min": 6,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:glow_ink_sac",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:limit_count",
+              "limit": {
+                "min": 12,
+                "max": 24
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 3,
+          "name": "minecraft:glow_item_frame",
+          "functions": [
+            {
+              "function": "minecraft:limit_count",
+              "limit": {
+                "min": 3,
+                "max": 6
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Invisible Glow Item Frame\",\"color\":\"aqua\",\"italic\":false}'},EntityTag:{Invisible:1b,Fixed:0b,block:invis}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:enchanted_golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:limit_count",
+              "limit": {
+                "min": {
+                  "min": 2,
+                  "max": 4
+                }
+			  }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:limit_count",
+              "limit": {
+                "min": 4,
+                "max": 8
+              }
+			},
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Lush Arrow\",\"color\":\"#2DD90B\",\"italic\":false}'},HideFlags:127,CustomPotionEffects:[{Id:18b,Amplifier:1b,Duration:140,ShowParticles:0b},{Id:19b,Amplifier:2b,Duration:140,ShowParticles:0b}],CustomPotionColor:1441549}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:limit_count",
+              "limit": {
+                "min": 1,
+                "max": 2
+              }
+			},
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Arrow of Lusting Hunger\",\"color\":\"#998F5C\",\"italic\":false}'},HideFlags:127,CustomPotionEffects:[{Id:4b,Amplifier:1b,Duration:160,ShowParticles:1b},{Id:15b,Amplifier:1b,Duration:160,ShowParticles:1b},{Id:17b,Amplifier:120b,Duration:300,ShowParticles:1b}],CustomPotionColor:5003570}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
