@@ -1,5 +1,5 @@
 # mine-treasure
-![Discord](https://img.shields.io/discord/1013900018232606770?logo=Discord)
+[![Discord](https://img.shields.io/discord/1013900018232606770?logo=Discord)](https://discord.com/invite/btqhwHv7H4)
 
 ![image](https://user-images.githubusercontent.com/59451552/209560364-1c28f844-355c-4388-ad2d-d6e1ef1b68eb.png)
 
