@@ -1,20 +1,31 @@
+# Mine Treasure Data Pack
 [![Website](https://img.shields.io/website?label=mine-treasure.com&url=https%3A%2F%2Fmine-treasure.com%2F)](https://mine-treasure.com/)
 [![Discord](https://img.shields.io/discord/1013900018232606770?logo=Discord)](https://discord.com/invite/btqhwHv7H4)
 
 ![image](https://user-images.githubusercontent.com/59451552/209560364-1c28f844-355c-4388-ad2d-d6e1ef1b68eb.png)
 ## Introduction
 
-Do you find mining to be a chore in Minecraft nowadays? Well, I certainly do, which is why I created this data pack.
-Mine Treasure is a data pack designed for rewarding patient players who want the mining aspect of Minecraft to flourish like it once did back in its early days.
+Mine Treasure is a data pack designed to enhance the user's mining experience in Minecraft. Mine Treasure is an expansive data pack with many features such as biome-specific treasures, advancements, custom items and customizability. The data pack has an immense focus on the performance aspect, after its release on the 24th of December, we have seeen an immense performance increase compared to the beta version. This ultimately made us officially release the data pack. 
 
-## Features
+# Features
 
-![DefaultTreasures](https://cdn.discordapp.com/attachments/1014251744659775558/1025335562124664873/treeasure-tiers.gif)
+As mentioned previously, Mine Treasure has many features, we will go more in-depth here.
 
-Treasures are divided into tiers: Common, Rare, Epic and Legendary.
+## Treasure Tiers
+
+![image](https://user-images.githubusercontent.com/59451552/209645961-cf6698c0-8807-46ba-8fb4-832e9fea1591.png)
+
+
+Treasures are divided into tiers: Common, Rare, Epic and Legendary, where the chances vary depending on the type of stone the player mines.
+
+## Biome-Specific Treasures
 
 Treasures are biome-specific, with 21 different biome loot tables.
 
+## Custom Items
 Treasures may contain custom items that surpasses Netherite.
 
+## Advancements
 Mine Treasure adds over 200+ advancements to the game.
+
+## Customizability 
