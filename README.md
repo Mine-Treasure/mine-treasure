@@ -1,4 +1,3 @@
-# mine-treasure
 [![Website](https://img.shields.io/website?label=mine-treasure.com&url=https%3A%2F%2Fmine-treasure.com%2F)](https://mine-treasure.com/)
 [![Discord](https://img.shields.io/discord/1013900018232606770?logo=Discord)](https://discord.com/invite/btqhwHv7H4)
 
