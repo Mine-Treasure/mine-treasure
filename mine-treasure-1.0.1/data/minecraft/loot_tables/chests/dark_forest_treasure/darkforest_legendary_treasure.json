@@ -95,6 +95,56 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{instrument:\"minecraft:call_goat_horn\",weapon:portal_horn}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Portal Room Horn",
+                  "color": "gold",
+                  "italic": "false"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "Calls upon the great builder to",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "instantly build the portal room right ",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "in front of you. Use with caution. ",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.5
+            }
+          ]
+		},
+        {
+          "type": "minecraft:item",
           "name": "minecraft:enchanted_golden_apple",
           "weight": 2,
           "functions": [

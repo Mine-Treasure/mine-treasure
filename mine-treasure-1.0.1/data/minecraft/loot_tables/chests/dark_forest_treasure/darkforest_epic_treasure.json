@@ -73,6 +73,94 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{instrument:\"minecraft:call_goat_horn\",weapon:villagehorn}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Weaponsmith Village Horn",
+                  "color": "aqua",
+                  "italic": "false"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "Calls upon the great builder to",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "instantly build a weaponsmith right ",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "in front of you. Use with caution. ",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+		},
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{instrument:\"minecraft:call_goat_horn\",weapon:pillageroutpost}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Pillager Outpost Horn",
+                  "color": "light_purple",
+                  "italic": "false"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "  "
+                },
+                {
+                  "text": "Calls upon the great builder to instantly ",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "build a pillager outpost right in front of ",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "you. Use with caution. ",
+                  "color": "gray",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+		},
+        {
+          "type": "minecraft:item",
           "name": "minecraft:ender_pearl",
           "weight": 3,
           "functions": [
