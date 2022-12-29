@@ -36,6 +36,31 @@
           ]
         },
         {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Hero of the Village Potion\",\"color\":\"aqua\",\"italic\":false}'},CustomPotionEffects:[{Id:32b,Amplifier:0b,Duration:2400,ShowParticles:1b}],CustomPotionColor:3135785}"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{item:badpotion}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.16
+            }
+          ]
+        },
+        {
           "type": "minecraft:item",
           "name": "minecraft:iron_pickaxe",
           "weight": 2,

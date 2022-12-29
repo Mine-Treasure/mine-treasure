@@ -170,6 +170,31 @@
         },
         {
           "type": "item",
+          "weight": 2,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Absorption Potion\",\"color\":\"aqua\",\"italic\":false}'},CustomPotionEffects:[{Id:22b,Amplifier:0b,Duration:2400,ShowParticles:1b}],CustomPotionColor:47035785}"
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{item:badpotion}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.16
+            }
+          ]
+        },
+        {
+          "type": "item",
           "weight": 1,
           "name": "minecraft:firework_rocket",
           "functions": [

@@ -195,7 +195,7 @@ execute if entity @s[scores={mt.break_magma_block=1..,mt.legendary_chance=..11},
 scoreboard players set @s[scores={treasure_obtain=1..}] mt.break_magma_block 0
 execute if entity @s[scores={mt.break_nether_quartz_ore=1..,mt.common_chance=..14},predicate=mt:the_nether] store result score @s common_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
 execute if entity @s[scores={mt.break_nether_quartz_ore=1..,mt.rare_chance=..14},predicate=mt:the_nether] store result score @s rare_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
-execute if entity @s[scores={mt.break_nether_quartz_ore=1..,mt.legendary_chance=..14},predicate=mt:the_nether] store result score @s epic_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
+execute if entity @s[scores={mt.break_nether_quartz_ore=1..,mt.epic_chance=..14},predicate=mt:the_nether] store result score @s epic_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
 execute if entity @s[scores={mt.break_nether_quartz_ore=1..,mt.legendary_chance=..14},predicate=mt:the_nether] store result score @s legendary_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
 scoreboard players set @s[scores={treasure_obtain=1..}] mt.break_nether_quartz_ore 0
 execute if entity @s[scores={mt.break_basalt=1..,mt.common_chance=..11},predicate=mt:the_nether] store result score @s common_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
