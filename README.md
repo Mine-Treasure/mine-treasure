@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=mine-treasure.com&url=https%3A%2F%2Fmine-treasure.com%2F)](https://mine-treasure.com/)
 [![Discord](https://img.shields.io/discord/1013900018232606770?logo=Discord)](https://discord.com/invite/btqhwHv7H4)
 
-![image](https://user-images.githubusercontent.com/59451552/209950631-755b86fb-65aa-4cd3-aa6f-64353f4266de.png)
+![image](https://user-images.githubusercontent.com/59451552/209950715-14379303-3f50-442b-9e93-101dcf946a6e.png)
 
 ## Introduction
 
