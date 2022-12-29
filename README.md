@@ -14,7 +14,7 @@ As mentioned previously, Mine Treasure has many features, we will go more in-dep
 
 ## Treasure Tiers
 
-![image](https://user-images.githubusercontent.com/59451552/209645961-cf6698c0-8807-46ba-8fb4-832e9fea1591.png)
+![image](https://user-images.githubusercontent.com/59451552/210017464-20ce5136-13de-4373-b602-cdba99e7e6a1.png)
 
 
 Treasures are divided into tiers: Common, Rare, Epic and Legendary, where the chances vary depending on the type of stone the player mines.
