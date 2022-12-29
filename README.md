@@ -2,7 +2,8 @@
 [![Website](https://img.shields.io/website?label=mine-treasure.com&url=https%3A%2F%2Fmine-treasure.com%2F)](https://mine-treasure.com/)
 [![Discord](https://img.shields.io/discord/1013900018232606770?logo=Discord)](https://discord.com/invite/btqhwHv7H4)
 
-![image](https://user-images.githubusercontent.com/59451552/209560364-1c28f844-355c-4388-ad2d-d6e1ef1b68eb.png)
+![image](https://user-images.githubusercontent.com/59451552/209950631-755b86fb-65aa-4cd3-aa6f-64353f4266de.png)
+
 ## Introduction
 
 Mine Treasure is a data pack designed to enhance the user's mining experience in Minecraft. Mine Treasure is an expansive data pack with many features such as biome-specific treasures, advancements, custom items and customizability. The data pack has an immense focus on the performance aspect, after its release on the 24th of December, we have seeen an immense performance increase compared to the beta version. This ultimately made us officially release the data pack. 
