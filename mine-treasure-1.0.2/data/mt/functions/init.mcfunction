@@ -1,5 +1,3 @@
-tellraw @p ["",{"text":"\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac","bold":true,"color":"dark_gray"},{"text":"\n"},{"text":"MINE","color":"#D0D7DF"},{"text":" TREASURE","color":"gold"},{"text":" Loaded "},{"text":"STANDARD","color":"yellow"},{"text":" settings.\nType "},{"text":"/function mt:settings","color":"green","clickEvent":{"action":"run_command","value":"/function mt:settings"}},{"text":" to see settings.\n"},{"text":"\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac","bold":true,"color":"dark_gray"}]
-
 scoreboard objectives add mt.mined dummy
 scoreboard objectives add mt.break_stone minecraft.mined:minecraft.stone
 scoreboard objectives add mt.break_diorite minecraft.mined:minecraft.diorite
@@ -206,8 +204,7 @@ scoreboard objectives add mt.nether_quartz_ore minecraft.mined:minecraft.nether_
 scoreboard objectives add mt.end_stone minecraft.mined:minecraft.end_stone
 scoreboard objectives add mt.total dummy
 
-#Treasure Chest
-scoreboard players set in mt.common_chance 500
-scoreboard players set in mt.rare_chance 2000
-scoreboard players set in mt.epic_chance 12000
-scoreboard players set in mt.legendary_chance 24000
+scoreboard players set mt.load mt.load 0
+scoreboard objectives add mt.load dummy
+scoreboard objectives add mt.loaded dummy
+execute if score mt.load mt.load matches 0 unless score mt.load mt.loaded matches 1.. run function mt:loaded
