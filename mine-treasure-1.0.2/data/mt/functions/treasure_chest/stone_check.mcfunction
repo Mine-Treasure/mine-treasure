@@ -1,8 +1,3 @@
-execute if entity @s[scores={mt.mined=1..}] run function mt:random_number/treasure_chances/common/range
-execute if entity @s[scores={mt.mined=1..}] run function mt:random_number/treasure_chances/rare/range
-execute if entity @s[scores={mt.mined=1..}] run function mt:random_number/treasure_chances/epic/range
-execute if entity @s[scores={mt.mined=1..}] run function mt:random_number/treasure_chances/legendary/range
-
 execute if entity @s[scores={mt.break_stone=1..,mt.common_chance=..11}] store result score @s common_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
 execute if entity @s[scores={mt.break_stone=1..,mt.rare_chance=..11}] store result score @s rare_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
 execute if entity @s[scores={mt.break_stone=1..,mt.epic_chance=..11}] store result score @s epic_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
@@ -208,6 +203,11 @@ execute if entity @s[scores={mt.break_end_stone=1..,mt.rare_chance=..14},predica
 execute if entity @s[scores={mt.break_end_stone=1..,mt.epic_chance=..14},predicate=mt:the_end] store result score @s epic_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
 execute if entity @s[scores={mt.break_end_stone=1..,mt.legendary_chance=..14},predicate=mt:the_end] store result score @s legendary_treasure at @s anchored eyes positioned ^ ^ ^ anchored feet run function mt:treasure_chest/start_ray
 scoreboard players set @s[scores={treasure_obtain=1..}] mt.break_end_stone 0
+
+execute if entity @s[scores={mt.mined=1..}] run function mt:random_number/treasure_chances/common/range
+execute if entity @s[scores={mt.mined=1..}] run function mt:random_number/treasure_chances/rare/range
+execute if entity @s[scores={mt.mined=1..}] run function mt:random_number/treasure_chances/epic/range
+execute if entity @s[scores={mt.mined=1..}] run function mt:random_number/treasure_chances/legendary/range
 
 #Chest Counter
 scoreboard players add @s[scores={common_treasure=1..}] mt.common_count 1
