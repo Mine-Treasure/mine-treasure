@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:endermite_spawn_egg"
+    },
+    "title": "In One End's Might",
+    "description": "Obtain the End Boots",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mt:treasure_advancements/first_legendary_end_treasure",
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:leather_boots"
+            ],
+            "nbt": "{armor:end_boots}"
+          }
+        ]
+      }
+    }
+  }
+}
