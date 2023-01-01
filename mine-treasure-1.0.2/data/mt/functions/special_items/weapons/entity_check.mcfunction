@@ -8,4 +8,4 @@ attribute @s[scores={mt.ice_shoes_timer=0}] generic.movement_speed modifier remo
 
 attribute @s[scores={mt.ice_shoes_timer=0}] generic.armor_toughness modifier remove 3434-5678-9101-1123-1234
 
-tag @s[scores={mt.ice_shoes_timer=0}] remove hit_by_ice
+tag @s[scores={mt.ice_shoes_timer=0}] remove mt.hit_by_ice

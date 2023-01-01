@@ -1,6 +1,6 @@
 tag @s add mt.entity
 
-tag @s add windy
+tag @s add mt.windy
 
 scoreboard players set @s mt.windy 100
 

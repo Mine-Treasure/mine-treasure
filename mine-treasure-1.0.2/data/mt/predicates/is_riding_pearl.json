@@ -4,7 +4,7 @@
   "predicate": {
     "vehicle": {
       "type": "minecraft:ender_pearl",
-      "nbt": "{Tags:[\"epball\"]}"
+      "nbt": "{Tags:[\"mt.epball\"]}"
     }
   }
 }

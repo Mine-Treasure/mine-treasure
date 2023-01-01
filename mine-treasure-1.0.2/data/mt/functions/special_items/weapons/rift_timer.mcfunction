@@ -8,4 +8,4 @@ attribute @s[scores={mt.rift_timer=301}] generic.max_health modifier add 9334-56
 
 playsound minecraft:entity.warden.nearby_closest master @a[distance=..10] ~ ~ ~ 3 1.5 1
 
-tag @s add hit_by_rift
+tag @s add mt.hit_by_rift

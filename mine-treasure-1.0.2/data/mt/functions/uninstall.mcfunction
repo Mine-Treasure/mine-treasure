@@ -91,7 +91,7 @@ scoreboard objectives remove mt.sprinting
 scoreboard objectives remove mt.jump
 scoreboard objectives remove mt.food
 scoreboard objectives remove mtvisfix 
-scoreboard players set mt.-1 mtvisfix -1
+scoreboard players set -1 mtvisfix -1
 scoreboard players set mt.global mtvisfix 1
 
 #entity_hit
@@ -141,6 +141,6 @@ scoreboard players set #1000 mt.constant 0
 scoreboard players set #10000 mt.constant 0
 scoreboard players set #lcg mt.constant 0
 
-data modify storage mt:zero_mt.constant zero set value 0
+data modify storage mt:zero_constant zero set value 0
 
-datapack disable "file/mine-treasure-1.0.2.zip"
+datapack disable "file/mine-treasure-1.0.3.zip"

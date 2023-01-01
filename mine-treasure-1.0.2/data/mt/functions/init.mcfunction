@@ -101,7 +101,7 @@ scoreboard objectives add mtvisfix dummy
 scoreboard objectives add mt.mine_dripstone minecraft.mined:minecraft.dripstone_block
 scoreboard objectives add mt.use_pearl minecraft.used:minecraft.ender_pearl
 scoreboard objectives add mt.health health
-scoreboard players set mt.-1 mtvisfix -1
+scoreboard players set -1 mtvisfix -1
 scoreboard players set mt.global mtvisfix 1
 
 #entity_hit
@@ -159,7 +159,7 @@ scoreboard players set #1000 mt.t_constant 1000
 scoreboard players set #10000 mt.t_constant 10000
 scoreboard players set #lcg mt.t_constant 1103515245
 
-data modify storage mt:zero_mt.constant zero set value 0
+data modify storage mt:zero_constant zero set value 0
 
 scoreboard objectives add mt.stone minecraft.mined:minecraft.stone
 scoreboard objectives add mt.diorite minecraft.mined:minecraft.diorite
@@ -204,7 +204,7 @@ scoreboard objectives add mt.nether_quartz_ore minecraft.mined:minecraft.nether_
 scoreboard objectives add mt.end_stone minecraft.mined:minecraft.end_stone
 scoreboard objectives add mt.total dummy
 
-scoreboard players set mt.load mt.load 0
-scoreboard objectives add mt.load dummy
 scoreboard objectives add mt.loaded dummy
+scoreboard objectives add mt.load dummy
+scoreboard players set mt.load mt.load 0
 execute if score mt.load mt.load matches 0 unless score mt.load mt.loaded matches 1.. run function mt:loaded

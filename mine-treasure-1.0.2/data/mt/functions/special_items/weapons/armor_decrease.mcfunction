@@ -12,4 +12,4 @@ attribute @s[scores={mt.ice_shoes_timer=100}] generic.armor_toughness modifier a
 
 playsound minecraft:block.glass.break master @a[distance=..10] ~ ~ ~ 0.4 1.2 1
 
-tag @s add hit_by_ice
+tag @s add mt.hit_by_ice
