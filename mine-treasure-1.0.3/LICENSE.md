@@ -2,9 +2,9 @@
 
 ## You may:
 
-- Use this data pack on a public multiplayer server provided you credit me in the server's description and leave a link to the Planet Minecraft page.
+- Use this data pack on a public multiplayer server provided you credit me in the server's description and leave a link to the Planet Minecraft/Modrinth/Website page.
 
-- Record a video series where you use this data pack, but I would appreciate being credited. Leave a link to the Planet Minecraft page. 
+- Record a video series where you use this data pack, but I would appreciate being credited. Leave a link to the Planet Minecraft/Modrinth/Website page. 
 
 - Modify this data pack for your own personal use.
 
