@@ -13,4 +13,4 @@ Modify this data pack for your own personal use.
 Upload this data pack to other sites or as part of a larger data pack or modpack unless granted explicit permission from me regardless of modifications.
 
 
-# © 2022 Frozytime. All Rights Reserved.
+### © 2022 Frozytime. All Rights Reserved.
