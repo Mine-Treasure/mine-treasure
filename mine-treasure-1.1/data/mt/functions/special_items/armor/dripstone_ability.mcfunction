@@ -1,0 +1,26 @@
+#Dripstone Hit Speed
+attribute @s[scores={mtDripstone=2000..3999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.01 multiply
+attribute @s[scores={mtDripstone=4000..5999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.02 multiply
+attribute @s[scores={mtDripstone=6000..7999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.03 multiply
+attribute @s[scores={mtDripstone=8000..9999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.04 multiply
+attribute @s[scores={mtDripstone=10000..11999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.05 multiply
+attribute @s[scores={mtDripstone=12000..13999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.06 multiply
+attribute @s[scores={mtDripstone=14000..15999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.07 multiply
+attribute @s[scores={mtDripstone=16000..17999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.08 multiply
+attribute @s[scores={mtDripstone=18000..19999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.09 multiply
+attribute @s[scores={mtDripstone=20000..21999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.10 multiply
+attribute @s[scores={mtDripstone=22000..23999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.11 multiply
+attribute @s[scores={mtDripstone=24000..25999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.12 multiply
+attribute @s[scores={mtDripstone=26000..27999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.13 multiply
+attribute @s[scores={mtDripstone=28000..29999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.14 multiply
+attribute @s[scores={mtDripstone=30000..31999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.15 multiply
+attribute @s[scores={mtDripstone=32000..33999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.16 multiply
+attribute @s[scores={mtDripstone=34000..35999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.17 multiply
+attribute @s[scores={mtDripstone=36000..37999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.18 multiply
+attribute @s[scores={mtDripstone=38000..39999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.19 multiply
+attribute @s[scores={mtDripstone=40000..41999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.20 multiply
+attribute @s[scores={mtDripstone=42000..43999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.21 multiply
+attribute @s[scores={mtDripstone=44000..45999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.22 multiply
+attribute @s[scores={mtDripstone=46000..47999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.23 multiply
+attribute @s[scores={mtDripstone=48000..49999}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.24 multiply
+attribute @s[scores={mtDripstone=50000..}] minecraft:generic.attack_speed modifier add 0011-9995-9101-1123-1234 hspd 0.25 multiply

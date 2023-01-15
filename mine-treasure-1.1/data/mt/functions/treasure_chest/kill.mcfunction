@@ -1,0 +1,1 @@
+tp @e[tag=mt.legendary,distance=..0.8] ~ ~-500 ~
