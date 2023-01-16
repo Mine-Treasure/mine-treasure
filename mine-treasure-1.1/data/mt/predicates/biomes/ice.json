@@ -11,12 +11,6 @@
     {
       "condition": "minecraft:location_check",
       "predicate": {
-        "biome": "minecraft:snowy_slopes"
-      }
-    },
-    {
-      "condition": "minecraft:location_check",
-      "predicate": {
         "biome": "minecraft:grove"
       }
     },
