@@ -1,0 +1,2 @@
+scoreboard players set in1 mt.legendary_chance 0
+tellraw @a[tag=mt.settings] ["",{"text":"[","bold":false,"color":"dark_gray"},{"text":"Mine ","bold":false,"color":"#CFCBD2"},{"text":"Treasure","bold":false,"color":"gold"},{"text":"]","bold":false,"color":"dark_gray"},{"text":" Enabled ","bold":false},{"text":"Legendary Treasures","bold":false,"color":"gold"}]

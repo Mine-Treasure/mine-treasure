@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:book"
+    },
+    "title": "First Treasure!",
+    "description": "Find your first Treasure!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "obtainchest": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

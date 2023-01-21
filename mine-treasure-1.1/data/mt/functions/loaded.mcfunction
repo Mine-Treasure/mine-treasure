@@ -1,5 +1,0 @@
-function mt:settings/mid
-
-tellraw @a ["",{"text":"\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac","bold":true,"color":"dark_gray"},{"text":"\n"},{"text":"MINE","color":"#D0D7DF"},{"text":" TREASURE","color":"gold"},{"text":" Loaded "},{"text":"STANDARD","color":"yellow"},{"text":" settings.\nType "},{"text":"/function mt:settings","color":"green","clickEvent":{"action":"run_command","value":"/function mt:settings"}},{"text":" to see settings.\n"},{"text":"\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac","bold":true,"color":"dark_gray"}]
-
-scoreboard players set mt.load mt.loaded 1
