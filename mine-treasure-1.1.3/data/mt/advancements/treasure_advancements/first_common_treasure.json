@@ -10,6 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
+  "parent": "mt:treasure_advancements/root",
   "criteria": {
     "obtainchest": {
       "trigger": "minecraft:impossible"

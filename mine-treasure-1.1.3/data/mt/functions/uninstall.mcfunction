@@ -143,4 +143,4 @@ scoreboard players set #lcg mt.constant 0
 
 data modify storage mt:zero_constant zero set value 0
 
-datapack disable "file/mine-treasure-1.1.2.zip"
+datapack disable "file/mine-treasure-1.1.2-1.19.2.zip"

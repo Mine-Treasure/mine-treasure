@@ -1,0 +1,55 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "minecraft:desert"
+      }
+	},
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:desert_oasis"
+      }
+	},
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:sandstone_valley"
+      }
+	},
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:red_oasis"
+      }
+	},
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:desert_canyon"
+      }
+	},
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:lush_desert"
+      }
+	},
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:ancient_sands"
+      }
+	},
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "terralith:desert_spires"
+        }
+      }
+    ]
+  }
+]
