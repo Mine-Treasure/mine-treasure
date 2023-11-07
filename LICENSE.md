@@ -8,6 +8,8 @@ Record a video series where you use this data pack, but I would appreciate being
 
 Modify this data pack for your own personal use.
 
+Use this in a modpack if it is on Modrinth.
+
 You may not:
 
 Upload this data pack to other sites or as part of a larger data pack or modpack unless granted explicit permission from me regardless of modifications.
